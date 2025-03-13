@@ -1,0 +1,1 @@
+# Midterm-Task-Lab-2---Data-Cleaning-and-Transformation-Using-Power-Query-Editor
