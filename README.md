@@ -30,21 +30,21 @@
 
     **Cleaned Image 1.1**
 
-    <img src="images/Uncleaned1.PNG" alt="Alt Text" Width="800" height="400">
+    <img src="images/Uncleaned1.png" alt="Alt Text" Width="800" height="400">
 
 
     **Cleaned Image 1.2**
 
-    <img src="images/Uncleaned2.PNG" alt="Alt Text" Width="800" height="400">
+    <img src="images/Uncleaned2.png" alt="Alt Text" Width="800" height="400">
 
 
     **Cleaned Image 1.3**
 
-    <img src="images/Uncleaned3.PNG" alt="Alt Text" Width="600" height="800">
+    <img src="images/Uncleaned3.png" alt="Alt Text" Width="600" height="800">
 
 
     **M Language**
-    <img src="images/M_Language.PNG" alt="Alt Text" Width="900" height="600">
+    <img src="images/M_Language.png" alt="Alt Text" Width="900" height="600">
 
     
 ## Step 2 - Reshaping and Grouping the Tables
@@ -61,27 +61,27 @@
 
     **Salary by Role Type Table**
 
-    <img src="images/sal_by_role_type_dup.PNG" alt="Alt Text" Width="600" height="200">
+    <img src="images/sal_by_role_type_dup.png" alt="Alt Text" Width="600" height="200">
 
 
     **Salary by Size Table**
 
-    <img src="images/sal_by_size_ref.PNG" alt="Alt Text" Width="600" height="200">
+    <img src="images/sal_by_size_ref.png" alt="Alt Text" Width="600" height="200">
 
 
     **Salary by Size Role Type Table**
 
-    <img src="images/sal_by_role_type_dup.PNG" alt="Alt Text" Width="600" height="200">
+    <img src="images/sal_by_role_type_dup.png" alt="Alt Text" Width="600" height="200">
 
 
     **Salary by State Table**
   
-    <img src="images/state.PNG" alt="Alt Text" Width="600" height="200">
+    <img src="images/state.png" alt="Alt Text" Width="600" height="200">
 
     
     **States (Mapping) Table**
 
-    <img src="images/state.PNG" alt="Alt Text" Width="600" height="200">
+    <img src="images/state.png" alt="Alt Text" Width="600" height="200">
 
   ## Step 3 - Query Dependencies
 
